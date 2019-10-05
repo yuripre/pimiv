@@ -1,0 +1,15 @@
+POST http://localhost:3333/veiculos HTTP/1.1
+content-type: application/json
+
+{
+    "MOD_VEICULO": "jacarezin",
+    "MAR_VEICULO": "scania",
+    "RENAVAM_VEICULO": "12567890111", 
+    "ANO_VEICULO":  1989,
+    "PLACA_VEICULO": "pyh-1123",
+    "COMB_VEICULO": "diesel",
+    "KM_TROCA_OLEO": 12.3,
+    "KM_TROCA_PNEU": 123.2,
+    "KM_REV_VEICULO": 123.3,
+    "KM_LITRO_VEICULO": 12.2
+}

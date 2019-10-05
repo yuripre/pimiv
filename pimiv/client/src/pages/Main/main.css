@@ -1,0 +1,12 @@
+.wrapper {
+  margin-left: 250px;
+  background: radial-gradient(100% 200% at left, white 75%, #c2e9f7 25.1%);
+  height: 695px;
+  color: black;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.wrapper h2 {
+  text-align: left;
+}
