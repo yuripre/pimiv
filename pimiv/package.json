@@ -11,7 +11,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "devDependencies": {
-    "electron": "^6.0.11",
+    "electron": "^9.4.0",
     "electron-builder": "^21.2.0",
     "wait-on": "^3.3.0"
   },
